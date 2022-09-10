@@ -1,0 +1,27 @@
+body {
+    display: flex;
+}
+
+.header{
+    display: flex;
+}
+
+.top-mid{
+    display: flex;
+}
+
+.lower-mid{
+    display: flex;
+}
+
+.bottom{
+    display: flex;
+}
+
+.footer{
+    display: flex;
+}
+
+*{
+    outline: 1px solid red;
+}
